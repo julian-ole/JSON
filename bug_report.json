@@ -1,0 +1,14 @@
+{   
+  "Title" : "string",
+  "Environment" : "string", 
+  "ID" : "number",
+  "Applause Status" : "string",
+  "Creation Date" : "Date",
+  "Bug Type" : "string",
+  "Frequency": "string",
+  "Severity": "string",
+  "Action Performed" : "string",
+  "Expected Result" : "string",
+  "Actual Result" : "string", 
+  "Attachments" : "string"
+}
