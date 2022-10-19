@@ -1,2 +1,6 @@
-MY NAME KISHKA
-141!!!!
+{
+    "name" : "Jack",
+    "age" : 20,
+    "animals" : 1,
+    "salary" : 1000
+}
