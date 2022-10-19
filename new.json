@@ -1,6 +1,6 @@
 {
-    "name" : "Jack",
-    "age" : 20,
-    "animals" : 1,
-    "salary" : 1000
+    "name" : "Julia",
+    "age" : 28,
+    "my animals" : "snail",
+    "salary" : 5000
 }
